@@ -1,0 +1,8 @@
+version: "2.1"
+services:
+  profee:
+    image: vovchikus/profee
+    ports:
+    - 8080:8080
+    entrypoint: "java -Djava.security.egd=file:/dev/./urandom -jar /app.jar"
+
