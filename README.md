@@ -21,4 +21,4 @@ in the project root
 
 ## Documentation
 
-* https://github.com/Vovchikus/profee/wiki/API-documentation
+* https://github.com/Vovchikus/profee/wiki/Profee-project
